@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "docker_intro"
+version = "0.1.0"
+requires-python = ">=3.8"
+dynamic = ["dependencies"]
+
+[project.scripts]
+docker_intro = "docker_intro.main:main"  # Adjust this to point to main.py
