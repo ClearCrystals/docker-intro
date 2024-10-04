@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+docker_intro/main.py
+docker_intro.egg-info/PKG-INFO
+docker_intro.egg-info/SOURCES.txt
+docker_intro.egg-info/dependency_links.txt
+docker_intro.egg-info/entry_points.txt
+docker_intro.egg-info/top_level.txt
