@@ -1,2 +1,0 @@
-[console_scripts]
-docker_intro = docker_intro.main:main
